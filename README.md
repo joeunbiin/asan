@@ -1,3 +1,3 @@
 # asan
 
-php, phpmyadmin
+PHP, PhpMyAdmin,Json, Javascript, HTML, CSS, JQuery
